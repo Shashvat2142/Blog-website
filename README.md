@@ -1,0 +1,1 @@
+Developed a full-stack blog application using NodeJS and Express for the backend, and MongoDB for the database. Implemented user authentication and authorization, and created routes for user and blog management. The system allows users to create, read, update etc, blog posts while ensuring secure access control.
